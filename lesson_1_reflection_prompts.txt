@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+Because we can se what we add to the file compare to the old version of the file
+and we can see too what we erase with ++ for the new lines and -- the lines we 
+erase and that is a good tool to difference two version of  file diff -u old new
+--------------------------------------------------------------------------------
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Its easier to locate all the possible errors if we see the history of it cause 
+we can check for errors esier, many times we don't create the files and seeing thr history it is posible that we can apriciate all the possible errors.
+------------------------------------------------------------------------------
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+To free an test our code usually its when we make a push in some files, difference bertween google, that maybe someone need our code to work and if it is automacally save we it would be hard to see all the versions of our work.
+-----------------------------------------------------------------------------
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+work in one module with many files with strong rlation between them
+---------------------------------------------------------------------------
+How can you use the commands git log and git diff to view the history of files?
+For each commit it is  an id we can make diff for two versions
+-------------------------------------------------------------------------------
+How might using version control make you more confident to make changes that
+could break something?
+
+Obey a design pattern and corporation rules
+Now that you have your workspace set up, what do you want to try using Git for?
+Projects of all size  and coloboration between project partners
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros: 
+Maybe yo want to save when its ready to test or tu use  what you  were working 
+cons 
+You can probaly make big commits or smalls commits if it is not an apropiate
+commit culture
+
+
+How might using version control make you more confident to make changes that could break something?
+The tools that git bring to us are easy to handle and using a combination for git diff and git check out we can find our errors on any project
